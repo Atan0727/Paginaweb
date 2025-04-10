@@ -5,16 +5,17 @@
 body {
     background: #161815;
 }
+.container{
+    gap: 2rem;
+}
 .barra{
-    background: black;
+    background: rgb(16, 84, 139);
     color:white;
 }
 .texto{
     color: white;
 }
-.links{
 
-}
 .section-padding {
     padding: 100px;
 }
